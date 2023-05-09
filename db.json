@@ -6,6 +6,12 @@
       "name": "Kenzinho",
       "age": 38,
       "id": 1
+    },
+    {
+      "email": "testee@email.com",
+      "password": "$2a$10$9.bhf.vhIYejXZ34ydRsG.9EcH6knMJemHuFtXj0twv9IFBpRf0Ou",
+      "name": "Teste",
+      "id": 2
     }
   ],
   "listCriptos": [
@@ -26,51 +32,65 @@
     },
     {
       "id": 4,
-      "name": "Cardano ",
+      "name": "Cardano",
       "price": 12
     },
     {
       "id": 5,
-      "name": "Avalanche ",
+      "name": "Avalanche",
       "price": 22
     },
     {
       "id": 6,
-      "name": "Hedera ",
+      "name": "Hedera",
       "price": 80
     },
     {
       "id": 7,
-      "name": "Chiliz ",
+      "name": "Chiliz",
       "price": 7
     },
     {
       "id": 8,
-      "name": "USD ",
+      "name": "USD",
       "price": 70
     },
     {
       "id": 9,
-      "name": "Smoothe ",
+      "name": "Smoothe",
       "price": 50
     },
     {
       "id": 10,
-      "name": "EOS ",
+      "name": "EOS",
       "price": 40
     }
   ],
-  "wallets": [
+  "wallets/users": [
     {
       "id": 1,
       "userId": 1,
-      "saldo": 0,
+      "saldoBRL": 0,
+      "nameMoeda": 0,
       "transacoes": [
         {
           "id": 1,
           "tipo": "saque | deposito | venda | compra",
           "valor": 0,
           "nameMoeda": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "saldo": 0,
+      "transacoes": [
+        {
+          "id": 1,
+          "tipo": "deposito",
+          "valor": 1000,
+          "nameMoeda": "BRL"
         }
       ]
     }
