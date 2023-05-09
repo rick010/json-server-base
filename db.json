@@ -7,5 +7,72 @@
       "age": 38,
       "id": 1
     }
+  ],
+  "listCriptos": [
+    {
+      "id": 1,
+      "name": "bitcoin",
+      "price": 1000
+    },
+    {
+      "id": 2,
+      "name": "Ethereum",
+      "price": 500
+    },
+    {
+      "id": 3,
+      "name": "Litecoin",
+      "price": 250
+    },
+    {
+      "id": 4,
+      "name": "Cardano ",
+      "price": 12
+    },
+    {
+      "id": 5,
+      "name": "Avalanche ",
+      "price": 22
+    },
+    {
+      "id": 6,
+      "name": "Hedera ",
+      "price": 80
+    },
+    {
+      "id": 7,
+      "name": "Chiliz ",
+      "price": 7
+    },
+    {
+      "id": 8,
+      "name": "USD ",
+      "price": 70
+    },
+    {
+      "id": 9,
+      "name": "Smoothe ",
+      "price": 50
+    },
+    {
+      "id": 10,
+      "name": "EOS ",
+      "price": 40
+    }
+  ],
+  "wallets": [
+    {
+      "id": 1,
+      "userId": 1,
+      "saldo": 0,
+      "transacoes": [
+        {
+          "id": 1,
+          "tipo": "saque | deposito | venda | compra",
+          "valor": 0,
+          "nameMoeda": ""
+        }
+      ]
+    }
   ]
 }
