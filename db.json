@@ -11,7 +11,19 @@
       "email": "testee@email.com",
       "password": "$2a$10$9.bhf.vhIYejXZ34ydRsG.9EcH6knMJemHuFtXj0twv9IFBpRf0Ou",
       "name": "Teste",
-      "id": 2
+      "id": 2,
+      "wallet": 
+      {
+        "BRL": 0,
+        "crypto1": 0,
+        "crypto2": 0
+      }
+      "hitory": 
+      {
+        "quantity": 0,
+        "type": "",
+        "total": 0
+      }
     }
   ],
   "listCriptos": [
