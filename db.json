@@ -13,11 +13,74 @@
       "name": "Teste",
       "id": 2,
       "wallet": 
-      {
-        "BRL": 0,
-        "crypto1": 0,
-        "crypto2": 0
-      },
+      [
+        {
+          "id": 1,
+          "name": "BRL",
+          "total": 0,
+          "quatidade": 0
+        },
+        {
+          "id": 2,
+          "name": "bitcoin",
+          "total": 0,
+          "quatidade": 0
+        },
+        {
+          "id": 3,
+          "name": "Ethereum",
+          "total": 0,
+          "quatidade": 0
+        },
+        {
+          "id": 4,
+          "name": "Litecoin",
+          "total": 0,
+          "quatidade": 0
+        },
+        {
+          "id": 5,
+          "name": "Cardano",
+          "total": 0,
+          "quatidade": 0
+        },
+        {
+          "id": 6,
+          "name": "Avalanche",
+          "total": 0,
+          "quatidade": 0
+        },
+        {
+          "id": 7,
+          "name": "Hedera",
+          "total": 0,
+          "quatidade": 0
+        },
+        {
+          "id": 8,
+          "name": "Chiliz",
+          "total": 0,
+          "quatidade": 0
+        },
+        {
+          "id": 9,
+          "name": "USD",
+          "total": 0,
+          "quatidade": 0
+        },
+        {
+          "id": 10,
+          "name": "Smoothe",
+          "total": 0,
+          "quatidade": 0
+        },
+        {
+          "id": 11,
+          "name": "EOS",
+          "total": 0,
+          "quatidade": 0
+        }
+  ],
       "hitory": 
       {
         "quantity": 0,
@@ -77,34 +140,5 @@
       "name": "EOS",
       "price": 40
     }
-  ],
-  "wallets": [
-    {
-      "id": 1,
-      "userId": 1,
-      "saldoBRL": 0,
-      "nameMoeda": 0,
-      "transacoes": [
-        {
-          "id": 1,
-          "tipo": "saque | deposito | venda | compra",
-          "valor": 0,
-          "nameMoeda": ""
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "userId": 2,
-      "saldo": 0,
-      "transacoes": [
-        {
-          "id": 1,
-          "tipo": "deposito",
-          "valor": 1000,
-          "nameMoeda": "BRL"
-        }
-      ]
-    }
-  ]
+  ] 
 }
