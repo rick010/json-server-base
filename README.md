@@ -1,4 +1,4 @@
-# json-server-base
+# json-server-base (API GENÉRICA PARA TESTES)
 
 Esse é o repositório com a base de JSON-Server + JSON-Server-Auth já configurada, feita para ser usada no desenvolvimento das API's nos Projetos Front-end.
 
